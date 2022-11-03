@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-integer@esm/index.mjs';
+import FLOAT64_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-integer@v0.0.8-esm/index.mjs';
 ```
 
 #### FLOAT64_MAX_SAFE_INTEGER
@@ -62,7 +62,7 @@ var bool = ( FLOAT64_MAX_SAFE_INTEGER === 9007199254740991 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import FLOAT64_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-integer@esm/index.mjs';
+import FLOAT64_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-integer@v0.0.8-esm/index.mjs';
 
 var max;
 var x;
